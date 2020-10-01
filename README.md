@@ -1,4 +1,5 @@
 #Spatially-Regularized-Ultrametrics
+
 This repository contains the Matlab code for the paper Hyperspectral Image Clustering withSpatially-Regularized Ultrametrics
 
 This implementation is partially adapted from the code https://jmurphy.math.tufts.edu/Code/LLPD_SpectralClustering_V2.1.zip. Please also cite the paper: Little, A., Maggioni, M., Murphy, J.M. Path-Based Spectral Clustering: Guarantees, Robustness to Outliers, and Fast Algorithms. Journal of Machine Learning Research, 21(6), pp. 1-66. 2020. https://www.jmlr.org/papers/volume21/18-085/18-085.pdf
