@@ -2,8 +2,9 @@
 
 This repository contains the Matlab code for the paper Hyperspectral Image Clustering withSpatially-Regularized Ultrametrics
 
+To use our implementation of SRUSC, please cite our paper at: https://arxiv.org/abs/2004.05048 
+
 This implementation is partially adapted from the code https://jmurphy.math.tufts.edu/Code/LLPD_SpectralClustering_V2.1.zip. Please also cite the paper: Little, A., Maggioni, M., Murphy, J.M. Path-Based Spectral Clustering: Guarantees, Robustness to Outliers, and Fast Algorithms. Journal of Machine Learning Research, 21(6), pp. 1-66. 2020. https://www.jmlr.org/papers/volume21/18-085/18-085.pdf
-To use our implementation of SRUSC, please cite the paper at: https://arxiv.org/abs/2004.05048 
 
 Source of the HSI data set: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Salinas_scene
 
