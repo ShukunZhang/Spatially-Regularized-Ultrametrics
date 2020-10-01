@@ -21,6 +21,6 @@ Nonnegative Matrix Factorization (NMF): https://sites.google.com/site/nicolasgil
 
 Local Covariance Matrix Representation: (LCMR): https://github.com/henanjun/LCMR L. Fang, N. He, S. Li, A.J. Plaza, and Javier J. Plaza. A new spatial–spectral feature extraction method for hyperspectral images using local covariance matrix representation. IEEE Transactions on Geoscience and Remote Sensing, 56(6):3534–3546, 2018.
 
-Laplacian-regularized low-rank subspace clustering (LLRSC): Please ask Professor Han Zhai (zhaihan@cug.edu.cn) for the implementation. H. Zhai, H. Zhang, L. Zhang, and P. Li. Laplacian-regularized low-rank subspace clustering for hyperspectral image band selection. IEEETransactions  on  Geoscience  and  Remote  Sensing,  57(3):1723–1740,2019.
+Laplacian-regularized low-rank subspace clustering (LLRSC): Please ask Professor Han Zhai for the implementation. H. Zhai, H. Zhang, L. Zhang, and P. Li. Laplacian-regularized low-rank subspace clustering for hyperspectral image band selection. IEEETransactions  on  Geoscience  and  Remote  Sensing,  57(3):1723–1740,2019.
 
 (c) Copyright Shukun Zhang, Tufts University, 2020.
