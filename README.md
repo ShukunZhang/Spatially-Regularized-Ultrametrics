@@ -1,4 +1,4 @@
-#Spatially-Regularized-Ultrametrics
+# Spatially-Regularized-Ultrametrics
 
 This repository contains the Matlab code for the paper Hyperspectral Image Clustering withSpatially-Regularized Ultrametrics
 
