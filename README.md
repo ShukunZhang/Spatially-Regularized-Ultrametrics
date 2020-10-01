@@ -1,5 +1,4 @@
-# SRUSC
-Spatially-Regularized-Ultrametrics
+#Spatially-Regularized-Ultrametrics
 This repository contains the Matlab code for the paper Hyperspectral Image Clustering withSpatially-Regularized Ultrametrics
 
 Source of the HSI data set: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes#Salinas_scene
